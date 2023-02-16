@@ -302,7 +302,7 @@
 
   .sank_text {
     top: -0.2%;
-    font-size: 45px;
+    font-size: 40px;
   }
 
   .item_container {
@@ -319,7 +319,7 @@
   }
 
   .about_title {
-    font-size: 35px !important;
+    font-size: 25px !important;
   }
 
   .about .box_content {
@@ -336,6 +336,10 @@
   }
   .service {
     padding: 150px 0;
+  }
+
+  .service .title {
+    font-size: 20px;
   }
 
   .contact .box_content {
